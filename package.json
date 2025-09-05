@@ -1,0 +1,10 @@
+{
+  "name": "@smplrx/smplrx-assets",
+  "version": "1.0.0",
+  "description": "Common static assets for SMPLRX projects.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "SMPLRX",
+  "license": "MIT",
+  "packageManager": "pnpm@10.14.0"
+}
