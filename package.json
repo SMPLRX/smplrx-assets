@@ -1,6 +1,6 @@
 {
   "name": "@smplrx/smplrx-assets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Common static assets for SMPLRX projects.",
   "main": "index.js",
   "keywords": [],
